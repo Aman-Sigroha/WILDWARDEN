@@ -89,7 +89,7 @@ function App() {
   }
   
   return (
-    <Router>
+    <Router basename="/WILDWARDEN">
       <div className="app">
         <Navbar />
         <main className="content" style={{ backgroundColor: '#0f172a' }}>
