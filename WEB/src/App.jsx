@@ -83,7 +83,7 @@ function App() {
         textAlign: 'center' 
       }}>
         <h2>Loading Wild Warden...</h2>
-        <p>Please wait while we connect to https://wildwardenserver.onrender.com</p>
+        <p>Please wait while we connect to https://wildwarden.onrender.com</p>
       </div>
     );
   }

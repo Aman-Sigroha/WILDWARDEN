@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Base URL for the API
-const API_BASE_URL = 'https://wildwardenserver.onrender.com';
+const API_BASE_URL = 'https://wildwarden.onrender.com';
 
 // Create axios instance with base URL
 const api = axios.create({

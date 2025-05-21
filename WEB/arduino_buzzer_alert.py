@@ -6,7 +6,7 @@ import os
 from datetime import datetime
 
 # Configuration
-API_URL = "https://wildwardenserver.onrender.com/api/buzzer-status"
+API_URL = "https://wildwarden.onrender.com/api/buzzer-status"
 CHECK_INTERVAL = 5  # Time in seconds between API checks
 ARDUINO_PORT = "COM4"  # Change to your Arduino port (COM3 is common on Windows)
 BAUD_RATE = 9600
